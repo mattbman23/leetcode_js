@@ -1,0 +1,16 @@
+{
+  "name": "jsChallenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./**/*.test.js"
+  },
+  "keywords": [],
+  "author": "Matthew Budiman",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^8.3.1",
+    "should": "^13.2.3"
+  }
+}
