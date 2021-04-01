@@ -1,7 +1,7 @@
 const allAnagrams = require('./allAnagrams');
 const should = require('should');
 
-describe('allAnagrams', () => {
+xdescribe('allAnagrams', () => {
   it('should exist', function () {
     should.exist(allAnagrams);
   });

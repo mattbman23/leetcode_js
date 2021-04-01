@@ -1,7 +1,7 @@
 const romanToInt = require('./romanToInt');
 const should = require('should');
 
-describe('romanToInt', () => {
+xdescribe('romanToInt', () => {
   it('should exist', function () {
     should.exist(romanToInt);
   });

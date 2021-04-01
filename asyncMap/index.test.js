@@ -1,7 +1,7 @@
 const asyncMap = require('./asyncMap');
 const should = require('should');
 
-describe('asyncMap', function () {
+xdescribe('asyncMap', function () {
   it('should exist', function () {
     should.exist(asyncMap);
   });

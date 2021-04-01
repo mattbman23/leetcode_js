@@ -1,7 +1,7 @@
 const intToRoman = require('./intToRoman');
 const should = require('should');
 
-describe('intToRoman', () => {
+xdescribe('intToRoman', () => {
   it('should exist', function () {
     should.exist(intToRoman);
   });

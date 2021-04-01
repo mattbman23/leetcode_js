@@ -1,7 +1,7 @@
 const binarySearch = require('./binarySearch');
 const should = require('should');
 
-describe('binarySearch', function () {
+xdescribe('binarySearch', function () {
   it('should exist', function () {
     should.exist(binarySearch);
   });

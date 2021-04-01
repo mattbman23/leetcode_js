@@ -1,7 +1,7 @@
 const twoSum = require('./twoSum');
 const should = require('should');
 
-describe('twoSum', () => {
+xdescribe('twoSum', () => {
   it('should exist', function () {
     should.exist(twoSum);
   });
